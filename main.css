@@ -1,0 +1,111 @@
+body {
+    background-color:dimgray;
+}
+
+h1 {
+    color:burlywood;
+    text-align: center;
+    font-size: 40px;
+   }
+
+p {
+    font-family: verdana;
+    font-size: 17px;
+      color: azure;
+    text-align: justify;
+}
+ul{
+   font-family: verdana;
+    font-size: 17px;
+    color: azure;
+}
+
+.ig{
+ font-size: 22px;
+}
+
+#goga {
+ font-size: 50 px;
+ color: red;
+}
+
+img {
+    width: 98%;
+border-style: solid;    
+border-width:5px ;
+    border-color:beige;
+    border-radius: 5;
+}
+
+#dlf {
+    width: 12%;
+    float: left;
+    padding: 5px;
+}
+#dcn {
+    width: 46%;
+    float: left;
+    padding: 5px;
+}
+#drh {
+    width: 38%;
+    float: left;
+    padding: 5px;
+}
+#pd {
+    width: 100%;
+    float:inherit;
+    padding: 5px;
+}
+#hdr {
+    width: 99%;
+    background-color:darkolivegreen;
+    align-self: center;
+    align-content: center;
+    background-image:url(3.jpg);
+    padding: 5px;
+    height: 150px;
+    background-position: center;
+    background-size:cover;
+}
+
+
+
+nav a{
+ background-color:beige;
+    border-style: solid;
+    border-width: 5px;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 5px;
+}
+
+a:link {
+  color: #497DDD; 
+  
+}
+a:visited {
+  color: #497DDD;
+}
+a:hover {
+  color: #154088; 
+ 
+}
+a:active {
+  color: #497DDD; 
+ 
+}
+
+.activemenu{
+    font-weight: bold;
+    font-variant-caps: all-petite-caps; 
+}
+
+table{
+    width: 95%;
+    align-self: center;
+}
+ td{
+    border: 1px;
+    border-style: solid;
+}
